@@ -23,9 +23,9 @@
 - 京都艺术大学（公立）
 - 名古屋艺术大学（公立）
 - 冲绳艺术大学（公立）
-- [棚同学园大学](https://www.tohomusic.ac.jp/college）
-- [东京音乐大学](https://www.tokyo-ondai.ac.jp/)
-- [国立音乐大学](https://www.kunitachi.ac.jp/)
+- [棚同学园大学](https://www.tohomusic.ac.jp/college)
+- [东京音乐大学](https://www.tokyo-ondai.ac.jp)
+- [国立音乐大学](https://www.kunitachi.ac.jp)
 - 昭和音乐大学
 ## 韩国音乐高校
 - 首尔大学
